@@ -1,5 +1,5 @@
-var baseArray
-var editArray
+var baseArray;
+var editArray;
 
 function test() {
   //do something
