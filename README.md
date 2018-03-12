@@ -1,7 +1,22 @@
 # start-up
 test repository
 
-just throwing out a few lines
-to test the editing process
-
-blah blah blah
+proposed object config
+volume:
+---
+data{
+  name:'',
+  origin:'',
+  direction:'',
+  lane:'',
+  dateArray:[],
+  volArray:[],
+  clsBins:[],
+  clsArray:[],
+  spdBins:[],
+  spdArray:[],
+  statBins:[],
+  statArray:[]
+  }
+countData = [data1,data2,data3...]
+---
